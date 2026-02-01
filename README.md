@@ -1,5 +1,3 @@
-# Hey there 👋
-
 I'm a software developer who loves building side projects and turning ideas into code.
 
 ## What I'm Building
