@@ -1,10 +1,7 @@
 I'm a software developer who loves building side projects and turning ideas into code.
 
 ## What I'm Building
-
-- **[uni-app](https://github.com/tarekwfa0110/uni-app)**
-- **[freerustcamp](https://github.com/tarekwfa0110/freerustcamp)**
-- **[prodblock](https://github.com/tarekwfa0110/prodblock)**
+Nothing
 
 ## What I Do
 
